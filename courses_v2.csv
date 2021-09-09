@@ -1,0 +1,69 @@
+Course Name,# of Holes,Yardage,Course Type,Distance,Driving Distance,Address
+"East Potomac Golf Links, Blue Course",18,"6,599",Municipal,1.04,2,972 Ohio Dr
+"East Potomac Golf Links, White Course",9,"2,420",Municipal,1.04,2,972 Ohio Dr
+"East Potomac Golf Links, Red Course",9,"1,142",Municipal,1.04,2,972 Ohio Dr
+"River Bend Club, River Bend Course",18,"6,631",Private,1.06,,375 Walker Rd
+"Langston Golf Course, Langston Course",18,"6,652",Municipal,2.92,3.5,2600 Benning Rd
+"Fort Belvoir Golf Club, Woodlawn Course",18,"6,832",Public,13.19,22,8450 Beulah St
+"Henson Creek Golf Course, Henson Creek Course",9,"2,444",Municipal,1.52,,1641 Tucker Rd
+"Pinecrest Golf Course, Pinecrest Course",9,"2,462",Municipal,11.21,,"6600 Little River Turnpike, Alexandria, VA 22312"
+"Army Navy Country Club Arlington, Red Course",9,"3,317",Private,2.56,,1700 Army Navy Dr
+"Army Navy Country Club Arlington, White Course",9,"3,277",Private,2.56,,1700 Army Navy Dr
+"Army Navy Country Club Arlington, Blue Course",9,"3,334",Private,2.56,,1700 Army Navy Dr
+"Oak Creek Golf Club, Oak Creek Course",18,"7,111",Public,13.65,15.8,600 Bowieville Manor Ln
+"Virginia Golf Center, Virginia Course",9,"1,322",Public,27.16,26.8,5801 Clifton Rd
+"Chevy Chase Club, Chevy Chase Course",18,"6,803",Private,3.73,,6100 Connecticut Ave
+"Columbia Country Club, Columbia Course",18,"6,545",Private,3.73,,7900 Connecticut Ave
+"Argyle Country Club, Argyle Course",18,"6,500",Private,5.00,,14600 Argyle Club Rd
+"Paint Branch Golf Complex, Paint Branch Course",9,"2,035",Municipal,15.56,15.8,4690 University Blvd
+"Belle Haven Country Club, Belle Haven Course",18,"6,643",Private,6.75,,6023 Fort Hunt Rd
+"Bethesda Country Club, Bethesda Course",18,"6,674",Private,6.87,,7601 Bradley Blvd
+"Washington Golf and Country Club, Washington Course",18,"6,133",Private,6.95,,3017 N Glebe Rd
+"Kenwood Golf & Country Club, Kenwood Course",18,"6,084",Private,7.36,,5601 River Rd
+"Congressional Country Club, Blue Course",18,"7,245",Private,7.36,,8500 River Rd
+"Congressional Country Club, Gold Course",18,"6,588",Private,7.36,,8500 River Rd
+"Bretton Woods Recreation Center, Bretton Woods Course",18,"6,642",Private,7.36,,15700 River Rd
+"Rock Creek Golf Course, Rock Creek Park Course",9,"2,284",Municipal,8.21,7.9,"6100 16th St NW, Washington, DC 20011"
+"University of Maryland Golf Course, University of Maryland Course",18,"6,654",Public,10.80,10.8,"3800 Golf Course Road, College Park, MD 20742"
+"The Country Club At Woodmore, Woodmore Course",18,"7,089",Private,12.08,,12320 Pleasant Prospect Rd
+"Hilltop Golf Club, Hilltop Course",9,"2,300",Public,12.11,16.1,"7900 Telegraph Rd, Alexandria, VA 22315"
+"TPC Potomac At Avenel Farm, Avenel Course",18,"7,124",Private,12.88,,10000 Oaklyn Dr
+"Greendale Golf Course, Greendale Course",18,"6,353",Municipal,12.80,12.8,"6700 Telegraph Rd, Alexandria, VA 22310"
+"Springfield Golf & Country Club, Springfield Course",18,"6,475",Private,13.61,,8301 Old Keene Mill Rd
+"Enterprise Golf Course, Enterprise Course",18,"6,586",Municipal,15.20,15.3,2802 Enterprise Rd
+"National Golf Club, National Golf Club Course",18,"6,668",Private,14.83,,300 Saint Andrews Dr
+"Woodmont Country Club, North Course",8,"7,205",Private,0.00,,
+"Woodmont Country Club, South Course",8,"6,659",Private,0.00,,
+"Gunpowder Golf Course, Gunpowder Course",18,"6,061",Municipal,15.40,21.4,14300 Old Gunpowder Rd
+"Bowie Golf Club, Bowie Course",18,"6,142",Municipal,15.52,19,7420 Laurel Bowie Rd
+"Leisure World of Maryland Golf Course, Leisure World Course",18,"5,142",Private,16.00,,3701 Rossmoor Blvd St
+"Oak Marr Golf Center, Oak Marr Course",9,"1,458",Municipal,16.61,,3200 Jermantown Rd
+"Laurel Hill Golf Club, Laurel Hills Course",18,"7,010",Municipal,16.98,20.9,8701 Laurel Crest Dr
+"Pohick Bay Golf Course, Pohick Bay Course",18,"6,405",Municipal,17.22,25.1,10301 Gunston Rd
+"Lakewood Country Club, Lakewood Course",18,"7,060",Private,17.66,,13901 Glen Mill Rd
+"Norbeck Country Club, Norbeck Course",18,"6,855",Private,18.01,,17200 Cashell Rd
+"Country Club of Fairfax, Fairfax Course",18,"6,639",Private,18.38,,5110 Ox Rd
+"Burke Lake Golf Center, Burke Lake Course",18,"2,843",Municipal,18.38,25.4,6915 Ox Rd
+"Penderbrook Golf Club, Penderbrook Course",18,"6,151",Public,18.94,22.5,3700 Golf Trail Ln
+"Hidden Creek Country Club, Hidden Creek Course",18,"6,778",Private,19.22,,1711 Clubhouse Rd
+"Reston National Golf Course, Reston National Course",18,"6,878",Public,19.44,23.6,11875 Sunrise Valley Dr
+"The Osprey's Golf Club, Ospreys Course",18,"5,567",Public,19.51,24.4,401 Belmont Bay Dr
+"Lake Ridge Golf Course, Lake Ridge Course",9,"1,074",Municipal,21.13,,12350 Cotton Mill Dr
+"International Country Club, International Course",8,"6,723",Private,0.00,,
+"Herndon Centennial Golf Course, Herndon Centennial Course",18,"6,445",Municipal,21.83,28.1,909 Ferndale Ave
+"Trump National Golf Club Washington DC, Riverview Course",18,"7,006",Private,21.87,,20391 Lowes Island Blvd
+"Marlton Golf Club, Marlton Course",8,"6,181",Public,15.24,19.2,"9413 Midland Turn, Upper Marlboro, MD 20772"
+"Trump National Golf Club Washington DC, Championship Course",18,"6,902",Private,21.87,,20391 Lowes Island Blvd
+"Old Hickory Golf Club, Old Hickory Course",18,"7,131",Public,22.11,32.9,11921 Chanceford Dr
+"Twin Lakes Golf Course, Oaks Course",18,"6,715",Municipal,22.23,29.5,6201 Union Mill Rd
+"Twin Lakes Golf Course, Lakes Course",18,"6,788",Municipal,22.23,29.5,6201 Union Mill Rd
+"Westfields Golf Club, Westfields Course",18,"6,897",Public,23.02,,13940 Balmoral Greens Ave
+"The Courses At Andrews, East Course",18,"6,780",Private,26.30,,4442 W Perimeter Rd
+"The Courses At Andrews, South Course",18,"6,748",Private,26.30,,4442 W Perimeter Rd
+"Lake Presidential Golf Club, Lake Presidential Course",8,"7,230",Public,0.00,,3151 Presidential Golf Dr
+"Westwood Country Club, Westwood Course",18,"6,734",Private,93.59,,800 Maple Ave
+"Burning Tree Club, Burning Tree Course",18,"6,400",Private,145.56,,8600 Burdette Rd
+"Manor Country Club, Championship Course",18,"6,717",Private,166.43,,14901 Carrolton Rd
+"Manor Country Club, Executive Course",9,"2,100",Private,166.43,,14901 Carrolton Rd
+"Mount Vernon Country Club, Mount Vernon Course",18,"6,281",Private,173.93,,5111 Old Mill Rd
+"Sterling Golf Club, Sterling Park Course",18,"2,610",Public,30.40,,333 S Sterling Blvd
